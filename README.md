@@ -95,3 +95,32 @@
 </html>
 
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botón en HTML</title>
+    <style>
+        .btn {
+            font-size: 16px; /* Tamaño del texto */
+            padding: 10px 20px; /* Espaciado interno del botón */
+            color: white; /* Color del texto */
+            background-color: #007BFF; /* Color de fondo */
+            border: none; /* Sin borde */
+            border-radius: 5px; /* Bordes redondeados */
+            cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+            text-align: center; /* Centra el texto */
+            text-decoration: none; /* Quita subrayado si se usa en un enlace */
+            display: inline-block; /* Hace que el enlace se comporte como botón */
+            margin: 10px; /* Espacio alrededor del botón */
+        }
+        .btn:hover {
+            background-color: #0056b3; /* Color de fondo al pasar el ratón */
+        }
+    </style>
+</head>
+<body>
+    <button class="https://ice20026.github.io/web-001-shir/">atras</button>
+</body>
+</html>
