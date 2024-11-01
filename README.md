@@ -42,7 +42,7 @@
     </style>
 </head>
 <body>
-    <h1>Catálogo de Fotos</h1>
+    <h1></h1>
     <div class="catalog">
         <div class="item">
             <img src="ruta/a/tu/imagen1.jpg" alt="Descripción de la imagen 1">
@@ -71,10 +71,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Imagen de Fondo</title>
     <style>
         body {
-            background-image: url('fondo.jpg'); /* Imagen de fondo */
+            background-image: url('fondo 01.jpg'); /* Imagen de fondo */
             background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -84,8 +83,7 @@
     </style>
 </head>
 <body>
-    <h1>¡Hola Mundo!</h1>
-    <p>Este es un ejemplo de una página con una imagen de fondo.</p>
+    <h1></h1>
 </body>
 </html>
 
