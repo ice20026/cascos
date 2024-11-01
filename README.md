@@ -95,14 +95,14 @@
 </html>
 
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botón en HTML</title>
+    <title>Botón con Hipervínculo</title>
     <style>
         .btn {
+            display: inline-block; /* Hace que el enlace se comporte como botón */
             font-size: 16px; /* Tamaño del texto */
             padding: 10px 20px; /* Espaciado interno del botón */
             color: white; /* Color del texto */
@@ -111,9 +111,8 @@
             border-radius: 5px; /* Bordes redondeados */
             cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
             text-align: center; /* Centra el texto */
-            text-decoration: none; /* Quita subrayado si se usa en un enlace */
-            display: inline-block; /* Hace que el enlace se comporte como botón */
-            margin: 10px; /* Espacio alrededor del botón */
+            text-decoration: none; /* Quita el subrayado del enlace */
+            margin: 10px; /* Espacio entre botones */
         }
         .btn:hover {
             background-color: #0056b3; /* Color de fondo al pasar el ratón */
@@ -121,6 +120,7 @@
     </style>
 </head>
 <body>
-    <button class="https://ice20026.github.io/web-001-shir/">atras</button>
+    <a href="https://ice20026.github.io/web-001-shir/" class="btn">atras</a>
 </body>
 </html>
+
