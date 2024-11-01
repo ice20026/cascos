@@ -61,7 +61,7 @@
         <div class="item">
             <img src="c4.jpg" alt="Descripción de la imagen 3">
             <h3>casco</h3>
-            <p>verde con diseño marca yamaha con led refletor .</p>
+            <p>verde con diseño marca yamaha con led reflector .</p>
   
 </body>
 </html>
@@ -69,15 +69,15 @@
   <div class="item">
             <img src="c5.jpg" alt="Descripción de la imagen 3">
             <h3>casco</h3>
-            <p>verde con diseño marca yamaha con led refletor .</p>
+            <p> marca yamaha color azul con diseños y lente reflector .</p>
   
 </body>
 </html>
 
   <div class="item">
-            <img src="c6.jpg" alt="Descripción de la imagen 3">
+            <img src="n1.jpg" alt="Descripción de la imagen 3">
             <h3>casco</h3>
-            <p>verde con diseño marca yamaha con led refletor .</p>
+            <p>de niño marca luki color amarillo  .</p>
   
 </body>
 </html>
