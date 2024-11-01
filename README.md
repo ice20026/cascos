@@ -45,20 +45,27 @@
     <h1></h1>
     <div class="catalog">
         <div class="item">
-            <img src="ruta/a/tu/imagen1.jpg" alt="Descripción de la imagen 1">
+            <img src="c1.jpg" alt="Descripción de la imagen 1">
             <h3>Nombre del Producto 1</h3>
             <p>Descripción breve del producto 1.</p>
         </div>
         <div class="item">
-            <img src="ruta/a/tu/imagen2.jpg" alt="Descripción de la imagen 2">
+            <img src="c2.jpg" alt="Descripción de la imagen 2">
             <h3>Nombre del Producto 2</h3>
             <p>Descripción breve del producto 2.</p>
         </div>
         <div class="item">
-            <img src="ruta/a/tu/imagen3.jpg" alt="Descripción de la imagen 3">
+            <img src="c3.jpg" alt="Descripción de la imagen 3">
             <h3>Nombre del Producto 3</h3>
             <p>Descripción breve del producto 3.</p>
         </div>
+   </div>
+        <div class="item">
+            <img src="c4.jpg" alt="Descripción de la imagen 3">
+            <h3>Nombre del Producto 3</h3>
+            <p>Descripción breve del producto 3.</p>
+        </div>
+        
         <!-- Añade más elementos de catálogo aquí -->
     </div>
 </body>
