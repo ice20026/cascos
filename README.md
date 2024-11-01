@@ -67,7 +67,8 @@
   <div class="item">
             <img src="n1.jpg" alt="Descripción de la imagen 3">
             <h3>casco</h3>
-            <p>de niño marca luki color amarillo  .</p> </div>
+            <p>de niño marca luki color amarillo  .</p> </div></body></html>
+
 
 
 
