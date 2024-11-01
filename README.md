@@ -44,24 +44,40 @@
     <div class="catalog">
         <div class="item">
             <img src="c1.jpg" alt="Descripción de la imagen 1">
-            <h3>Nombre del Producto 1</h3>
-            <p>Descripción breve del producto 1.</p>
+            <h3>casco</h3>
+            <p>casco rosa marca luki.</p>
         </div>
         <div class="item">
             <img src="c2.jpg" alt="Descripción de la imagen 2">
-            <h3>Nombre del Producto 2</h3>
-            <p>Descripción breve del producto 2.</p>
+            <h3>casco </h3>
+            <p>casco de hombre diseño grafiti marca yamaha.</p>
         </div>
         <div class="item">
             <img src="c3.jpg" alt="Descripción de la imagen 3">
-            <h3>Nombre del Producto 3</h3>
-            <p>Descripción breve del producto 3.</p>
+            <h3>casco </h3>
+            <p>casco negro marca yamaha .</p>
         </div>
    </div>
         <div class="item">
             <img src="c4.jpg" alt="Descripción de la imagen 3">
-            <h3>Nombre del Producto 3</h3>
-            <p>Descripción breve del producto 3.</p>
+            <h3>casco</h3>
+            <p>verde con diseño marca yamaha con led refletor .</p>
+  
+</body>
+</html>
+
+  <div class="item">
+            <img src="c5.jpg" alt="Descripción de la imagen 3">
+            <h3>casco</h3>
+            <p>verde con diseño marca yamaha con led refletor .</p>
+  
+</body>
+</html>
+
+  <div class="item">
+            <img src="c6.jpg" alt="Descripción de la imagen 3">
+            <h3>casco</h3>
+            <p>verde con diseño marca yamaha con led refletor .</p>
   
 </body>
 </html>
