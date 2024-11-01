@@ -62,9 +62,7 @@
             <img src="c4.jpg" alt="Descripción de la imagen 3">
             <h3>Nombre del Producto 3</h3>
             <p>Descripción breve del producto 3.</p>
-        </div>
-            <!-- Añade más elementos de catálogo aquí -->
-    </div>
+  
 </body>
 </html>
 
