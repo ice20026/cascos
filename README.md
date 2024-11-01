@@ -1,5 +1,3 @@
-# web-0002-shir-
-
 
 <html lang="es">
 <head>
@@ -65,8 +63,7 @@
             <h3>Nombre del Producto 3</h3>
             <p>Descripción breve del producto 3.</p>
         </div>
-        
-        <!-- Añade más elementos de catálogo aquí -->
+            <!-- Añade más elementos de catálogo aquí -->
     </div>
 </body>
 </html>
